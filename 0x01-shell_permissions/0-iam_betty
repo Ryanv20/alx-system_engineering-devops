@@ -1,1 +1,2 @@
-shell permissions README.md
+#!/bin/bash
+su Betty
